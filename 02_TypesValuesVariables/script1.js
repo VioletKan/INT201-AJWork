@@ -10,3 +10,6 @@ value = function (num) {
   return num + num;
 };
 console.log(`value (line#9) is ${value} on typeof ${typeof value}`);
+
+
+
